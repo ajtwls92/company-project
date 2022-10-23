@@ -10,6 +10,9 @@
     <nav>
         leader is in charge
         Here!!
+        아이고~~
+        git 
+        aws
     </nav>
 
     <main>
