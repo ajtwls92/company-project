@@ -10,12 +10,15 @@
     <nav>
         leader is in charge
         Here!!
+        
     </nav>
 
     <main>
       this is freshman in charge
       hello
       I am making my first project
+      이것이 된다고??
+      ????
     </main>
     <footer>
 
