@@ -16,7 +16,9 @@
     </nav>
 
     <main>
-      
+      this is freshman in charge
+      hello
+      I am making my first project
     </main>
     <footer>
 
